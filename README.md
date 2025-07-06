@@ -7,6 +7,7 @@
 ![image alt](https://github.com/HammadKashmiri1/JENSEN-Wall-Decoration/blob/d94a57f1ab00ea753dbcce081df3aaf0685efab5/Screenshot%202025-07-06%20071208.png)
 ![image alt](https://github.com/HammadKashmiri1/JENSEN-Wall-Decoration/blob/765d580f89099c4921c052eac4f60b7e62b6e24f/Screenshot%202025-07-06%20071303.png)
 ![image alt](https://github.com/HammadKashmiri1/JENSEN-Wall-Decoration/blob/76249440fa8adda8243ff8f6f409da9bd06c4b33/Screenshot%202025-07-06%20071342.png)
+![image alt](https://github.com/HammadKashmiri1/JENSEN-Wall-Decoration/blob/f3f0aae2e4c5da1d8e544ee96620a448f183ccc1/Screenshot%202025-07-06%20071417.png)
 ## 📌 Key Features
 
 - ✅ **Multiple Product Categories:**  
