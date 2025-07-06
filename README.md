@@ -3,6 +3,8 @@
 **JENSEN** is a responsive e-commerce website designed to showcase and sell premium wall decoration products. It provides a seamless shopping experience with a clean layout, smooth navigation, and an easy-to-use product comparison feature. The project highlights your front-end development skills using **HTML, CSS, and JavaScript**.
 
 ---
+# SCREENSHOTS
+![image alt](https://github.com/HammadKashmiri1/JENSEN-Wall-Decoration/blob/d94a57f1ab00ea753dbcce081df3aaf0685efab5/Screenshot%202025-07-06%20071208.png)
 
 ## 📌 Key Features
 
