@@ -49,5 +49,5 @@ The goal of **JENSEN** is to provide an engaging online store that highlights ho
 
 ---
 
-## 📂 Project Structure
+
 
